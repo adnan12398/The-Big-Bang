@@ -1,0 +1,73 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <nav>
+      <img height="50px" width="auto"    src="https://i.imgur.com/PH7960b.png" alt="">
+      <ul>
+        <li><a href="#">Timeline</a></li>
+        <li><a href="#">History</a></li>
+        <li><a href="#">Obervational evidence</a></li>
+        <li><a href="#">Ultimate fate of the universe</a></li>
+      </ul>
+  </nav>
+  
+    <header>
+        <img src="" alt="big bang">
+          <h1>
+          Timeline
+         </h1>
+     </header> 
+ <main>
+   <h3> Singularity</h3>
+   <p>
+See also: Gravitational singularity and Planck units § Cosmology
+Extrapolation of the expansion of the universe backwards in time using general relativity yields an infinite density and temperature at a finite time in the past.[17] This irregular behavior, known as the gravitational singularity, indicates that general relativity is not an adequate description of the laws of physics in this regime. Models based on general relativity alone can not extrapolate toward the singularity — beyond the end of the so-called Planck epoch.[citation needed]
+   </p>
+   <p>
+This primordial singularity is itself sometimes called "the Big Bang",[18] but the term can also refer to a more generic early hot, dense phase[19][notes 2] of the universe. In either case, "the Big Bang" as an event is also colloquially referred to as the "birth" of our universe since it represents the point in history where the universe can be verified to have entered into a regime where the laws of physics as we understand them (specifically general relativity and the Standard Model of particle physics) work. Based on measurements of the expansion using Type Ia supernovae and measurements of temperature fluctuations in the cosmic microwave background, the time that has passed since that event — known as the "age of the universe" — is 13.799 ± 0.021 billion years.[20] The agreement of independent measurements of this age supports the Lambda-CDM (ΛCDM) model that describes in detail the characteristics of the universe.[citation needed]
+   </p>
+    <p>
+Despite being extremely dense at this time—far denser than is usually required to form a black hole—the universe did not re-collapse into a singularity. This may be explained by considering that commonly-used calculations and limits for gravitational collapse are usually based upon objects of relatively constant size, such as stars, and do not apply to rapidly expanding space such as the Big Bang. Likewise, since the early universe did not immediately collapse into a multitude of black holes, matter at that time must have been very evenly distributed with a negligible density gradient.[21]
+   </p>
+   
+   <h3> Inflation and baryogenesis</h3>
+   <p>
+Main articles: Inflation (cosmology) and Baryogenesis
+The earliest phases of the Big Bang are subject to much speculation, since astronomical data about them are not available. In the most common models the universe was filled homogeneously and isotropically with a very high energy density and huge temperatures and pressures, and was very rapidly expanding and cooling. The period from 0 to 10-43 seconds into the expansion, the Planck epoch, was a phase in which the four fundamental forces — the electromagnetic force, the strong nuclear force, the weak nuclear force, and the gravitational force, were unified as one.[22] In this stage, the universe was only about 10−35 meters wide and consequently had a temperature of approximately 1032 degrees Celsius.[23] The Planck epoch was succeeded by the grand unification epoch beginning at 10-43 seconds, where gravitation separated from the other forces as the universe's temperature fell.[22] The universe was pure energy at this stage, too hot for any particles to be created.
+   </p>
+   <p>
+At approximately 10−37 seconds into the expansion, a phase transition caused a cosmic inflation, during which the universe grew exponentially, faster than the speed of light, and temperatures dropped by a factor of 100,000. Microscopic quantum fluctuations that occurred because of Heisenberg's uncertainty principle were amplified into the seeds that would later form the large-scale structure of the universe.[24] At a time around 10-36 seconds, the Electroweak epoch begins when the strong nuclear force separates from the other forces, with only the electromagnetic force and weak nuclear force remaining unified.[25]
+   </p>
+   <p>
+Inflation stopped at around the 10−33 to 10−32 seconds mark, with the universe's volume having increased by a factor of at least 1078. Reheating occurred until the universe obtained the temperatures required for the production of a quark–gluon plasma as well as all other elementary particles.[26][27] Temperatures were so high that the random motions of particles were at relativistic speeds, and particle–antiparticle pairs of all kinds were being continuously created and destroyed in collisions.[4] At some point, an unknown reaction called baryogenesis violated the conservation of baryon number, leading to a very small excess of quarks and leptons over antiquarks and antileptons—of the order of one part in 30 million. This resulted in the predominance of matter over antimatter in the present universe.[28]
+   </p>
+   
+   <h3> Cooling</h3>
+   <p>
+     The universe continued to decrease in density and fall in temperature, hence the typical energy of each particle was decreasing. Symmetry breaking phase transitions put the fundamental forces of physics and the parameters of elementary particles into their present form, with the electromagnetic force and weak nuclear force separating at about 10−12 seconds.[25][29] After about 10−11 seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in particle accelerators. At about 10−6 seconds, quarks and gluons combined to form baryons such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was now no longer high enough to create new proton–antiproton pairs (similarly for neutrons–antineutrons), so a mass annihilation immediately followed, leaving just one in 1010 of the original protons and neutrons, and none of their antiparticles. A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the universe was dominated by photons (with a minor contribution from neutrinos).
+   </p>
+   <p>
+     A few minutes into the expansion, when the temperature was about a billion kelvin and the density of matter in the universe was comparable to the current density of Earth's atmosphere, neutrons combined with protons to form the universe's deuterium and helium nuclei in a process called Big Bang nucleosynthesis (BBN).[30] Most protons remained uncombined as hydrogen nuclei.[31]
+   </p>
+   <p>
+     As the universe cooled, the rest energy density of matter came to gravitationally dominate that of the photon radiation. After about 379,000 years, the electrons and nuclei combined into atoms (mostly hydrogen), which were able to emit radiation. This relic radiation, which continued through space largely unimpeded, is known as the cosmic microwave background.[31] The chemistry of life may have begun during a habitable epoch when the universe was only 10–17 million years old.[32][33]
+   </p>
+   <h3>Cosmic acceleration</h3>
+   <p>
+     Independent lines of evidence from Type Ia supernovae and the CMB imply that the universe today is dominated by a mysterious form of energy known as dark energy, which apparently permeates all of space. The observations suggest 73% of the total energy density of today's universe is in this form. When the universe was very young, it was likely infused with dark energy, but with less space and everything closer together, gravity predominated, and it was slowly braking the expansion. But eventually, after numerous billion years of expansion, the growing abundance of dark energy caused the expansion of the universe to slowly begin to accelerate.[9]
+   </p>
+   <p>
+     Dark energy in its simplest formulation takes the form of the cosmological constant term in Einstein field equations of general relativity, but its composition and mechanism are unknown and, more generally, the details of its equation of state and relationship with the Standard Model of particle physics continue to be investigated both through observation and theoretically.[9]
+   </p>
+   <p>
+     All of this cosmic evolution after the inflationary epoch can be rigorously described and modeled by the ΛCDM model of cosmology, which uses the independent frameworks of quantum mechanics and general relativity. There are no easily testable models that would describe the situation prior to approximately 10−15 seconds.[38] Apparently a new unified theory of quantum gravitation is needed to break this barrier. Understanding this earliest of eras in the history of the universe is currently one of the greatest unsolved problems in physics.
+   </p>
+  </main>
+</body>
+</html>
