@@ -1,2 +1,2 @@
 # The-Big-Bang
-The theory of the birth of the universe.
+The Theory of the birth of the universe.
